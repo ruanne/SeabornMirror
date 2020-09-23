@@ -1,4 +1,4 @@
-#How to plot error bands 
+# How to plot error bands 
 
 ```python
 import pandas as pd
